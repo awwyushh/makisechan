@@ -1,8 +1,8 @@
-# MakiseKernel 💻✨
+# MakiseChan 💻✨
 
 **An AI-Powered OS Kernel Optimizer**
 
-MakiseKernel is an intelligent kernel optimization system that dynamically adjusts OS parameters, optimizes scheduling, and enhances system performance using machine learning techniques. Inspired by Kurisu Makise from *Steins;Gate*, this project aims to make OS-level performance tuning as seamless and efficient as possible.
+MakiseChan is an intelligent kernel optimization system that dynamically adjusts OS parameters, optimizes scheduling, and enhances system performance using machine learning techniques. Inspired by Kurisu Makise from *Steins;Gate*, this project aims to make OS-level performance tuning as seamless and efficient as possible.
 
 ---
 
